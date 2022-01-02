@@ -1,4 +1,6 @@
 # Streamer
+App for Streaming Movies and TV shows on iOS and tvOS
+
 - Stream all TV shows and Movies from Vidembed.io without any annoying ads
 - Supports Chromecast to stream to FireTV and Chromecasts
 - Supports English subtitles
@@ -14,3 +16,8 @@
   - [Download iPA](https://gitreleases.dev/gh/StreamerApp/Streamer/latest/Streamer-tvOS.ipa)
   - Use [iOS App signer](https://www.iosappsigner.com/)
 
+
+# Screenshots
+![iOS)](https://user-images.githubusercontent.com/96978272/147875665-51f1182d-7f4a-4811-acd8-f1b8e00d35b0.jpg)
+
+![tvOS](https://user-images.githubusercontent.com/96978272/147875695-2ddf2012-9b23-4b08-b95f-da9c724715c4.jpg)
