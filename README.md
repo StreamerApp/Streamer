@@ -8,7 +8,7 @@ App for Streaming Movies and TV shows on iOS and tvOS
 
 # Installation 
 
-- iOS (Works on iOS 13+)
+- iOS (Works on iOS 14+)
   - [Download iPA](https://gitreleases.dev/gh/StreamerApp/Streamer/latest/Streamer-iOS.ipa)
   - [Install via AltStore](https://spx.vercel.app/1/altstore%3A%2F%2Finstall%3Furl%3Dhttps%253A%2F%2Fgitreleases.dev%2Fgh%2FStreamerApp%2FStreamer%2Flatest%2FStreamer-iOS.ipa)
 
