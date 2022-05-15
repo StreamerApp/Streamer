@@ -11,6 +11,7 @@ App for Streaming Movies and TV shows on iOS and tvOS
 - 123moviesfree.so : English content with english subtitles. Fast updating.
 - Akwam.to: Arabic content
 - CimaNow.cc: Arabic content
+- 9anime.id: Anime content
 
 ## Installation 
 
