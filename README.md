@@ -1,4 +1,6 @@
 # Streamer
+![screenshot](https://user-images.githubusercontent.com/96978272/173220765-147fdb0b-ff8f-4ac0-95bc-ac0444eea5ee.png)
+
 App for Streaming Movies and TV shows on iOS and tvOS
 - Stream all TV shows and Movies from multiple websites without any annoying ads
 - Supports Chromecast to stream to FireTV and Chromecasts
@@ -6,16 +8,17 @@ App for Streaming Movies and TV shows on iOS and tvOS
 - Favorite functionality to quickly access your favorite shows and movies 
 
 ## Supported providers 
-- Flixtor.video: English content with multi-language subtitles and HQ streaming. Slow updating
-- hdfilme.cx: German content with 1080 quality streaming.
-- 123moviesfree.so : English content with english subtitles. Fast updating.
-- Akwam.to: Arabic content
-- CimaNow.cc: Arabic content
-- 9anime.id: Anime content
+- 🌍 Flixtor.video: English content with multi-language subtitles and HQ streaming. Slow updating
+- 🇺🇸 123moviesfree.so : English content with english subtitles. Fast updating.
+- 🇩🇪 HDfilme.cx: German content with 1080 quality streaming.
+- 🇸🇦 Akwam.to: Arabic content
+- 🇸🇦 CimaNow.cc: Arabic content
+- 🇪🇸 PelisFlix.one: Spanish content
+- 🇪🇸 SeriesYonkis.io: Spanish content
+- ⾞ 9anime.id: Anime content
+
 
 ## Installation 
-
-
 - iOS (Works on iOS 14+)
   - [Download iPA](https://github.com/StreamerApp/Streamer/releases/latest/download/Streamer-iOS.ipa)
   - [Install via AltStore](https://spx.vercel.app/1/altstore%3A%2F%2Finstall%3Furl%3Dhttps%3A%2F%2Fgithub.com%2FStreamerApp%2FStreamer%2Freleases%2Flatest%2Fdownload%2FStreamer-iOS.ipa)
