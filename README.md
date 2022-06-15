@@ -15,6 +15,8 @@ App for Streaming Movies and TV shows on iOS and tvOS
 - 🇸🇦 CimaNow.cc: Arabic content
 - 🇪🇸 PelisFlix.one: Spanish content
 - 🇪🇸 SeriesYonkis.io: Spanish content
+- 🇪🇸 SeriesYonkis.io: Spanish content
+- 🇪🇸 Peliculasgo (seriesflix.la and peliculasflix.co): : Spanish content
 - ⾞ 9anime.id: Anime content
 
 
