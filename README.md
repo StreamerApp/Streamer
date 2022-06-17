@@ -13,9 +13,6 @@ App for Streaming Movies and TV shows on iOS and tvOS
 - 🇩🇪 HDfilme.cx: German content with 1080 quality streaming.
 - 🇸🇦 Akwam.to: Arabic content
 - 🇸🇦 CimaNow.cc: Arabic content
-- 🇪🇸 PelisFlix.one: Spanish content
-- 🇪🇸 SeriesYonkis.io: Spanish content
-- 🇪🇸 SeriesYonkis.io: Spanish content
 - 🇪🇸 Peliculasgo (seriesflix.la and peliculasflix.co): : Spanish content
 - ⾞ 9anime.id: Anime content
 
@@ -24,6 +21,12 @@ App for Streaming Movies and TV shows on iOS and tvOS
 - iOS (Works on iOS 14+)
   - [Download iPA](https://github.com/StreamerApp/Streamer/releases/latest/download/Streamer-iOS.ipa)
   - [Install via AltStore](https://spx.vercel.app/1/altstore%3A%2F%2Finstall%3Furl%3Dhttps%3A%2F%2Fgithub.com%2FStreamerApp%2FStreamer%2Freleases%2Flatest%2Fdownload%2FStreamer-iOS.ipa)
+
+[![](https://cdn.discordapp.com/icons/648551503891791912/7d285360331459bfdd22f0460a7efc80.webp?size=64)](https://signtunes.com/signer?id=https%3A//github.com/StreamerApp/Streamer/releases/latest/download/Streamer-iOS.ipa) 
+[![](https://cdn.starfiles.co/images/altstore-64.png)](altstore://install?url=https%3A//github.com/StreamerApp/Streamer/releases/latest/download/Streamer-iOS.ipa) 
+[![](https://cdn.starfiles.co/images/scarlet-64.png)](scarlet://install=https%3A//github.com/StreamerApp/Streamer/releases/latest/download/Streamer-iOS.ipa) 
+[![](https://cdn.starfiles.co/images/reprovision-64.png)](reprovision://install?url=https%3A//github.com/StreamerApp/Streamer/releases/latest/download/Streamer-iOS.ipa) 
+[![](https://cdn.starfiles.co/images/signum-64.png)](https://signumsign.me/import/?ipa=https%3A//github.com/StreamerApp/Streamer/releases/latest/download/Streamer-iOS.ipa)
 
 - tvOS (Works on iOS 14+)
   - [Download iPA](https://github.com/StreamerApp/Streamer/releases/latest/download/Streamer-tvOS.ipa)
