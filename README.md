@@ -21,7 +21,6 @@ App for Streaming Movies and TV shows on iOS and tvOS
 - iOS (Works on iOS 14+)
   - [Download iPA](https://github.com/StreamerApp/Streamer/releases/latest/download/Streamer-iOS.ipa)
   - [Install via AltStore](https://spx.vercel.app/1/altstore%3A%2F%2Finstall%3Furl%3Dhttps%3A%2F%2Fgithub.com%2FStreamerApp%2FStreamer%2Freleases%2Flatest%2Fdownload%2FStreamer-iOS.ipa)
-  - [Scarlet repo](https://spx.vercel.app/1/scarlet%3A%2F%2Frepo%3Dhttps%253A%252F%252Fraw.githubusercontent.com%252FStreamerApp%252FStreamer%252Fmain%252Fscarlet.json)
 
 
 [![signum](https://user-images.githubusercontent.com/96978272/174394035-19e65860-4117-45a8-837a-4e6ef735e0dc.png)](https://signumsign.me/import/?ipa=https%3A//github.com/StreamerApp/Streamer/releases/latest/download/Streamer-iOS.ipa)
