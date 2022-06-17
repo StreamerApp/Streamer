@@ -7,6 +7,7 @@
         {
             "name": "Streamer iOS App",
             "version": "1.2.1",
+            "icon": "https://avatars.githubusercontent.com/u/96971772?s=200&v=4",
             "down": "https://github.com/StreamerApp/Streamer/releases/latest/download/Streamer-iOS.ipa",
             "category": "Apps",
             "description": "App for Streaming Movies and TV shows on iOS and tvOS\n\nStream all TV shows and Movies from multiple websites without any annoying ads\nSupports Chromecast to stream to FireTV and Chromecasts\nSupports multi-language subtitles for iOS and tvOS\nFavorite functionality to quickly access your favorite shows and movies\n",
