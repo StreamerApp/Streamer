@@ -8,12 +8,14 @@ App for Streaming Movies and TV shows on iOS and tvOS
 - Favorite functionality to quickly access your favorite shows and movies 
 
 ## Supported providers 
-- 🌍 Flixtor.video: English content with multi-language subtitles and HQ streaming. Slow updating
+- 🇺🇸 Flixtor.video: English content with multi-language subtitles and HQ streaming. Slow updating
+- 🇺🇸 TVshows88.com: English content.
+- 🇺🇸 Sflix.pro: English content.  
 - 🇺🇸 123moviesfree.so : English content with english subtitles. Fast updating.
 - 🇩🇪 HDfilme.cx: German content with 1080 quality streaming.
 - 🇸🇦 Akwam.to: Arabic content
 - 🇸🇦 CimaNow.cc: Arabic content
-- 🇪🇸 Peliculasgo (seriesflix.la and peliculasflix.co): : Spanish content
+- 🇪🇸 Pelisflix.one: Spanish content
 - ⾞ 9anime.id: Anime content
 
 
@@ -36,6 +38,7 @@ App for Streaming Movies and TV shows on iOS and tvOS
   - Use [iOS App signer](https://www.iosappsigner.com/)
   - [Install via Sideloady](https://spx.vercel.app/1/sideloadly%3Ahttps%3A%2F%2Fgithub.com%2FStreamerApp%2FStreamer%2Freleases%2Flatest%2Fdownload%2FStreamer-tvOS.ipa)
 
+<a href="https://www.buymeacoffee.com/streamerapp" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
 
 ## Screenshots
