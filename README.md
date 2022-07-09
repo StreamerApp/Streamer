@@ -12,10 +12,13 @@ App for Streaming Movies and TV shows on iOS and tvOS
 - 🇺🇸 TVshows88.com: English content.
 - 🇺🇸 Sflix.pro: English content.  
 - 🇺🇸 123moviesfree.so : English content with english subtitles. Fast updating.
+- 🇺🇸 MediaBoxHD: English content from MediaBoxHD.net app.
 - 🇩🇪 HDfilme.cx: German content with 1080 quality streaming.
 - 🇸🇦 Akwam.to: Arabic content
 - 🇸🇦 CimaNow.cc: Arabic content
 - 🇪🇸 Pelisflix.one: Spanish content
+- 🇪🇸 SeriesYonkis.io: Spanish content
+- 🇪🇸 Peliculasgo: Spanish content
 - ⾞ 9anime.id: Anime content
 
 
