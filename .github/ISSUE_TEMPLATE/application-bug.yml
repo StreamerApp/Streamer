@@ -47,16 +47,16 @@ body:
     validations:
       required: true
   
-- type: input
-    id: user-id
-    attributes:
-      label: User identifier
-      description: |
-        You can find your User identifier in the **Settings** screen.
-      placeholder: |
-        Example: "6c5454c3-6aab-4494-9936-cbfb3babbd15"
-    validations:
-      required: true
+  - type: input
+      id: user-id
+      attributes:
+        label: User identifier
+        description: |
+          You can find your User identifier in the **Settings** screen.
+        placeholder: |
+          Example: "6c5454c3-6aab-4494-9936-cbfb3babbd15"
+      validations:
+        required: true
 
   - type: dropdown
     id: streamer_application
