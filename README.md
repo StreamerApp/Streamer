@@ -8,8 +8,10 @@ App for Streaming Movies and TV shows on iOS and tvOS
 - Favorite functionality to quickly access your favorite shows and movies 
 
 <p align="center">
-   <a href="https://discord.gg/XhZwzuwKPM"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a href="https://www.buymeacoffee.com/streamerapp" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+   <a href="https://discord.gg/XhZwzuwKPM"><img src="https://invidget.switchblade.xyz/XhZwzuwKPM" style="height: 88px !important;width: 344px !important></a>
+</p>
+<p align="center">
+   <br><a href="https://www.buymeacoffee.com/streamerapp" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 45px !important;width: 191px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 </p>
 
 ## Supported providers 
