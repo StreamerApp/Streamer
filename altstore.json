@@ -1,27 +1,24 @@
 {
-  "name": "StreamerApp",
-  "identifier": "com.mo.streamer.ios",
-  "apps": [
-    {
-      "name": "Streamer",
-      "bundleIdentifier": "com.mo.streamer.ios",
-      "developerName": "StreamerApp",
-      "subtitle": "App for Streaming Movies and TV shows.",
-      "version": "1.2.9",
-      "versionDate": "2022-09-10",
-      "versionDescription": "- 🇮🇹 Fixed StreamingCommunity search and viewing shows.\n- 🇩🇪 HDFilme went down. so I removed HDFilme and added kinokiste.club\n- 🇪🇸 fixed playing issues for pelisflix\n- 🇺🇸 Added Fmovies.to\n- Fixed a lot of issues for different hosts like VizCloud, StreamSB, VidSrc, Nupload\n\nBuilt using iOS 16 SDK\n",
-      "downloadURL": "https://github.com/StreamerApp/Streamer/releases/latest/download/Streamer-iOS.ipa",
-      "localizedDescription": "App for Streaming Movies and TV shows on iOS and tvOS.\n\n- Stream all TV shows and Movies from multiple websites without any annoying ads\n- Supports Chromecast to stream to FireTV and Chromecasts\n- Supports multi-language subtitles for iOS and tvOS\n- Favorite functionality to quickly access your favorite shows and movies\n",
-      "iconURL": "https://avatars.githubusercontent.com/u/96971772?s=200&v=4",
-      "tintColor": "000000",
-      "size": 11900000,
-      "screenshotURLs": [
-"https://user-images.githubusercontent.com/96978272/191682372-93158122-160c-446e-9384-282833cc5626.png",
-"https://user-images.githubusercontent.com/96978272/191682918-b644aa53-3084-4c3b-b809-97f1b010f985.png",
-"https://user-images.githubusercontent.com/96978272/191682352-3cb452c1-081e-4981-9dcc-6246a4b6ff4c.png",
-"https://user-images.githubusercontent.com/96978272/191682345-f882e099-3ba3-4851-b5db-b9709bc64abe.png",
-      ]
-    }
-  ]
+	"name": "StreamerApp",
+	"identifier": "com.mo.streamer.ios",
+	"apps": [{
+		"name": "Streamer",
+		"bundleIdentifier": "com.mo.streamer.ios",
+		"developerName": "StreamerApp",
+		"subtitle": "App for Streaming Movies and TV shows.",
+		"version": "1.2.9",
+		"versionDate": "2022-09-10",
+		"versionDescription": "- 🇮🇹 Fixed StreamingCommunity search and viewing shows.\n- 🇩🇪 HDFilme went down. so I removed HDFilme and added kinokiste.club\n- 🇪🇸 fixed playing issues for pelisflix\n- 🇺🇸 Added Fmovies.to\n- Fixed a lot of issues for different hosts like VizCloud, StreamSB, VidSrc, Nupload\n\nBuilt using iOS 16 SDK\n",
+		"downloadURL": "https://github.com/StreamerApp/Streamer/releases/latest/download/Streamer-iOS.ipa",
+		"localizedDescription": "App for Streaming Movies and TV shows on iOS and tvOS.\n\n- Stream all TV shows and Movies from multiple websites without any annoying ads\n- Supports Chromecast to stream to FireTV and Chromecasts\n- Supports multi-language subtitles for iOS and tvOS\n- Favorite functionality to quickly access your favorite shows and movies\n",
+		"iconURL": "https://avatars.githubusercontent.com/u/96971772?s=200&v=4",
+		"tintColor": "000000",
+		"size": 11900000,
+		"screenshotURLs": [
+			"https://user-images.githubusercontent.com/96978272/191682372-93158122-160c-446e-9384-282833cc5626.png",
+			"https://user-images.githubusercontent.com/96978272/191682918-b644aa53-3084-4c3b-b809-97f1b010f985.png",
+			"https://user-images.githubusercontent.com/96978272/191682352-3cb452c1-081e-4981-9dcc-6246a4b6ff4c.png",
+			"https://user-images.githubusercontent.com/96978272/191682345-f882e099-3ba3-4851-b5db-b9709bc64abe.png"
+		]
+	}]
 }
-
