@@ -51,9 +51,14 @@ App for Streaming Movies and TV shows on iOS and tvOS
 
 
 ## Screenshots
-![merge_from_ofoct](https://user-images.githubusercontent.com/96978272/170120798-39608ccf-be6c-41bd-bb9f-978086e9c4fa.jpg)
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/96978272/191682372-93158122-160c-446e-9384-282833cc5626.png" width="400" />
+  <img src="https://user-images.githubusercontent.com/96978272/191682918-b644aa53-3084-4c3b-b809-97f1b010f985.png" width="400" /> 
+  <img src="https://user-images.githubusercontent.com/96978272/191682352-3cb452c1-081e-4981-9dcc-6246a4b6ff4c.png" width="400" />
+  <img src="https://user-images.githubusercontent.com/96978272/191682345-f882e099-3ba3-4851-b5db-b9709bc64abe.png" width="400" />
+</p>
 
- 
+
 ![tvOS3](https://user-images.githubusercontent.com/96978272/167290141-71c96a2a-3592-4749-b87f-5415d85ea98a.png)
 ![tvOS4](https://user-images.githubusercontent.com/96978272/167290144-325e44e3-40a9-47b4-84e3-e21cb043871d.png)
 ![tvOS5](https://user-images.githubusercontent.com/96978272/167290150-acbc3e3f-b426-4526-9639-05356495184f.png)
