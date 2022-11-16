@@ -7,7 +7,7 @@
 		"developerName": "StreamerApp",
 		"subtitle": "App for Streaming Movies and TV shows",
 		"version": "1.2.11",
-		"versionDate": "2022-01-16",
+		"versionDate": "2022-11-16",
 		"versionDescription": "- Fixed Akwam, StreamingCommunity, Kinokiste providers \n - Added GDrivePlayer.to as a backup provider \n - Fixed search issues in Flixtor, Fmovies, Mediabox providers \n - Removed the casting option as it's not working for all sources and causing a lot of issues for some users \n - BETA: for OpenSubtitles users now you can select which subtitles to use before playing the movie or the tv show",
 		"downloadURL": "https://github.com/StreamerApp/Streamer/releases/latest/download/Streamer-iOS.ipa",
 		"localizedDescription": "App for Streaming Movies and TV shows on iOS and tvOS.\n\n- Stream all TV shows and Movies from multiple websites without any annoying ads\n- Supports Chromecast to stream to FireTV and Chromecasts\n- Supports multi-language subtitles for iOS and tvOS\n- Favorite functionality to quickly access your favorite shows and movies\n",
