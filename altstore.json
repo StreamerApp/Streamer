@@ -1,9 +1,9 @@
 {
 	"name": "StreamerApp",
-	"identifier": "com.mo.streamer.ios",
+	"identifier": "com.streamer.ios",
 	"apps": [{
 		"name": "Streamer",
-		"bundleIdentifier": "com.mo.streamer.ios",
+		"bundleIdentifier": "com.streamer.ios",
 		"developerName": "StreamerApp",
 		"subtitle": "App for Streaming Movies and TV shows",
 		"version": "1.2.13",
