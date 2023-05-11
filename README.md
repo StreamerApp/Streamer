@@ -15,18 +15,16 @@ App for Streaming Movies and TV shows on iOS and tvOS
 </p>
 
 ## Supported providers 
-- 🇺🇸 Flixtor.video: English content with multi-language subtitles and HQ streaming. Slow updating
-- 🇺🇸 TVshows88.com: English content.
+- 🇺🇸 Flixtor.video: English content with multi-language subtitles and HQ streaming
 - 🇺🇸 Sflix.pro: English content.  
 - 🇺🇸 Fmovies.to: English content.
-- 🇺🇸 123moviesfree.so : English content with english subtitles. Fast updating.
-- 🇺🇸 MediaBoxHD: English content from MediaBoxHD.net app.
+- 🇺🇸 FlixHQ.to: English content
+- 🇺🇸 123moviesfree.so : English content with english subtitles.
 - 🇩🇪 kinokiste.club: German content.
 - 🇸🇦 Akwam.to: Arabic content
 - 🇸🇦 CimaNow.cc: Arabic content
-- 🇪🇸 Pelisflix.one: Spanish content
-- 🇪🇸 SeriesYonkis.io: Spanish content
-- 🇪🇸 Peliculasgo: Spanish content
+- 🇸🇦 Arabseed.ink: Arabic content
+- 🇪🇸 ViewAsian.co: Asian content
 - ⾞ Zoro.to: Anime content
 
 
