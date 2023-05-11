@@ -2,10 +2,11 @@
 ![screenshot](https://user-images.githubusercontent.com/96978272/173220765-147fdb0b-ff8f-4ac0-95bc-ac0444eea5ee.png)
 
 App for Streaming Movies and TV shows on iOS and tvOS
-- Stream all TV shows and Movies from multiple websites without any annoying ads
+- Stream all TV shows and Movies from multiple websites
 - Supports Chromecast to stream to FireTV and Chromecasts
 - Supports multi-language subtitles for iOS and tvOS
-- Favorite functionality to quickly access your favorite shows and movies 
+- Favorite functionality to quickly access your favorite shows and movies
+- the iOS app has some ads to support the development and the tvOS app is ad-free. 
 
 <p align="center">
    <a href="https://discord.gg/XhZwzuwKPM"><img src="https://invidget.switchblade.xyz/XhZwzuwKPM" style="height: 88px !important;width: 344px !important></a>
