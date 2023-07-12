@@ -17,16 +17,17 @@ App for Streaming Movies and TV shows on iOS and tvOS
 
 ## Supported providers 
 - 🇺🇸 Flixtor.video: English content with multi-language subtitles and HQ streaming
-- 🇺🇸 Sflix.pro: English content.  
-- 🇺🇸 Fmovies.to: English content.
 - 🇺🇸 FlixHQ.to: English content
-- 🇺🇸 123moviesfree.so : English content with english subtitles.
-- 🇩🇪 kinokiste.club: German content.
+- 🇺🇸 PutLocker.vip: English content
+- 🇺🇸 123moviesfree.so: English content with English subtitles.
+- 🇩🇪 KinoKiste.club: German content.
+- 🇩🇪 FilmPalast.to: German content.
 - 🇸🇦 Akwam.to: Arabic content
 - 🇸🇦 CimaNow.cc: Arabic content
 - 🇸🇦 Arabseed.ink: Arabic content
-- 🇪🇸 ViewAsian.co: Asian content
-- ⾞ Zoro.to: Anime content
+- 🇸🇦 FaselHD.vip: Arabic content
+- 🇰🇷 ViewAsian.co: Asian content
+- ⾞  Kaido.to: Anime content
 
 
 ## Installation 
