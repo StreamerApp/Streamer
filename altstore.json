@@ -55,7 +55,7 @@
           "minOSVersion": "14.0"
         }
       ],
-      "downloadURL": "https://github.com/StreamerApp/Streamer/releases/download/1.2.21/Streamer-iOS.ipa",
+      "downloadURL": "https://github.com/StreamerApp/Streamer/releases/latest/download/Streamer-iOS.ipa",
       "localizedDescription": "App for Streaming Movies and TV shows on iOS and tvOS.\n\n- Stream all TV shows and Movies from multiple websites without any annoying ads\n- Supports Chromecast to stream to FireTV and Chromecasts\n- Supports multi-language subtitles for iOS and tvOS\n- Favorite functionality to quickly access your favorite shows and movies\n\nSupported providers:\n-🇺🇸 MovieBoxPro (Streamer Pro users only): 4k English content with multi-language subtitles.\n🇺🇸 Flixtor.video: English content with multi-language subtitles and HQ streaming\n-🇺🇸 FlixHQ.to: English content\n-🇺🇸 PutLocker.vip: English content\n-🇺🇸 123moviesfree.so: English content with English subtitles.\n-🇩🇪 KinoKiste.club: German content\n-🇩🇪 FilmPalast.to: German content\n-🇸🇦 Akwam.to: Arabic content\n-🇸🇦 Arabseed.ink: Arabic content\n-🇸🇦 FaselHD.vip: Arabic content\n-🇰🇷 ViewAsian.co: Asian content\n-⾞ Kaido.to: Anime content\n\n More Info:\n https://github.com/StreamerApp/Streamer",
       "iconURL": "https://avatars.githubusercontent.com/u/96971772?s=200&v=4",
       "tintColor": "#5e5e5e",
