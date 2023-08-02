@@ -74,7 +74,7 @@
             "usageDescription": "Some ad content may require access to accelerometer for interactive ad experience."
           },
           {
-            "name": "Bluetooth",
+            "name": "BluetoothAlways",
             "usageDescription": "Streamer uses the local network to discover Cast-enabled devices on your WiFi network."
           },
           {
@@ -106,7 +106,7 @@
           "usageDescription": "Some ad content may require access to accelerometer for interactive ad experience."
         },
         {
-          "type": "Bluetooth",
+          "type": "BluetoothAlways",
           "usageDescription": "Streamer uses the local network to discover Cast-enabled devices on your WiFi network."
         },
         {
