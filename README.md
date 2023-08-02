@@ -1,5 +1,6 @@
-# Streamer
-![screenshot](https://user-images.githubusercontent.com/96978272/173220765-147fdb0b-ff8f-4ac0-95bc-ac0444eea5ee.png)
+<p align="center">
+   <img src="https://github.com/StreamerApp/Streamer/assets/96978272/130f55c1-a906-4ec2-bbac-9276793473ff">
+</p>
 
 App for Streaming Movies and TV shows on iOS and tvOS
 - Stream all TV shows and Movies from multiple websites
@@ -55,20 +56,20 @@ App for Streaming Movies and TV shows on iOS and tvOS
 
 ## Screenshots
 <p float="left">
-  <img src="https://user-images.githubusercontent.com/96978272/191682372-93158122-160c-446e-9384-282833cc5626.png" width="400" />
-  <img src="https://user-images.githubusercontent.com/96978272/191682918-b644aa53-3084-4c3b-b809-97f1b010f985.png" width="400" /> 
-  <img src="https://user-images.githubusercontent.com/96978272/191682352-3cb452c1-081e-4981-9dcc-6246a4b6ff4c.png" width="400" />
-  <img src="https://user-images.githubusercontent.com/96978272/191682345-f882e099-3ba3-4851-b5db-b9709bc64abe.png" width="400" />
+  <img src="https://github.com/StreamerApp/Streamer/assets/96978272/1f5cc49f-bc36-4be1-ac38-8da48aa4d715" width="400" />
+  <img src="https://github.com/StreamerApp/Streamer/assets/96978272/072f6b5c-f51b-4681-b9ed-ab1b1ec7392e" width="400" /> 
+  <img src="https://github.com/StreamerApp/Streamer/assets/96978272/a8097992-bf83-41ed-afbf-85910d09b769" width="400" />
+  <img src="https://github.com/StreamerApp/Streamer/assets/96978272/d1f9f2f9-c35e-428f-afab-e9bcea356a28" width="400" />
+  <img src="https://github.com/StreamerApp/Streamer/assets/96978272/0c70e4de-bbe9-485e-8516-4133f0c0a75e" width="400" />
+  <img src="https://github.com/StreamerApp/Streamer/assets/96978272/4e78c4fb-d0c6-4c3f-91bb-817d7a2805df" width="400" />
 </p>
 
+![tvOS1](https://github.com/StreamerApp/Streamer/assets/96978272/28f9fe27-b3a9-41eb-8a11-4d8865c0545e)
+![tvOS2](https://github.com/StreamerApp/Streamer/assets/96978272/8707dae9-9d5e-466c-b245-5aded5b23980)
+![tvOS3](https://github.com/StreamerApp/Streamer/assets/96978272/a95bf748-3111-4579-b780-f0b28698c3c5)
+![tvOS4](https://github.com/StreamerApp/Streamer/assets/96978272/1b41b8bb-79ac-4d58-a6b3-f788b575914e)
+![tvOS5](https://github.com/StreamerApp/Streamer/assets/96978272/2f3a7403-41cc-433d-b0b3-f4fa7b9b43e9)
 
-![tvOS3](https://user-images.githubusercontent.com/96978272/167290141-71c96a2a-3592-4749-b87f-5415d85ea98a.png)
-![tvOS4](https://user-images.githubusercontent.com/96978272/167290144-325e44e3-40a9-47b4-84e3-e21cb043871d.png)
-![tvOS5](https://user-images.githubusercontent.com/96978272/167290150-acbc3e3f-b426-4526-9639-05356495184f.png)
-![tvOS6](https://user-images.githubusercontent.com/96978272/167290152-af2a3839-828a-4ee9-a55e-762a46805ad5.png)
-![tvOS7](https://user-images.githubusercontent.com/96978272/167290169-2e724594-d0a4-4059-acef-9205e33d756c.png)
-![tvOS8](https://user-images.githubusercontent.com/96978272/167290175-2782a2df-20d9-4c1a-b94d-dd414128d1a3.png)
-![tvOS9](https://user-images.githubusercontent.com/96978272/167290181-b097949c-1348-46e5-98c1-3f8142f269ea.png)
-![tvOS10](https://user-images.githubusercontent.com/96978272/167290198-06ea955d-0708-420a-b1e9-5289d4d63784.png)
+
 ![tvOS11](https://user-images.githubusercontent.com/96978272/167290211-3ccea8f9-86fc-41d8-b88c-8230f1b82741.png)
 ![tvOS12](https://user-images.githubusercontent.com/96978272/167290216-14239db4-8136-45c8-9063-914cd7fd96d7.png)
