@@ -29,7 +29,8 @@ App for Streaming Movies and TV shows on iOS and tvOS
 - 🇸🇦 Arabseed.ink: Arabic content
 - 🇸🇦 FaselHD.vip: Arabic content
 - 🇰🇷 ViewAsian.co: Asian content
-- ⾞  Kaido.to: Anime content
+- 🇯🇵 Kaido.to: Anime content
+- 🇫🇷 Empire-Streaming.app: French content
 
 
 ## Installation 
