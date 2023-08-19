@@ -30,7 +30,7 @@
 			},
 			{
 				"version": "1.2.23",
-				"date": "2023-08-011",
+				"date": "2023-08-11",
 				"localizedDescription": "- **Streamer Player**: Enjoy high-quality content playback within the app. Choose your preferred player from the settings screen\r\n- **Autoplay**: Customize your preferred quality for all streams in the settings screen and Streamer will automatically select it for all movies and TV shows\r\n- **Top shelf support for AppleTV**: You can now see your home screen for your favorite provider without opening the app\r\n- **Force OpenSubtitles**: Enable Streamer to always request subtitles from Open Subtitles in the subtitles settings screen\r\n- **Remove item from \u201CContinue watching\" section**: Long press any item in the \u201CContinue watching\u201D section to remove it from the list\r\n- Numerous UI fixes and improvements throughout the app\r\n- Fixed Flixtor links loading issue\r\n",
 				"downloadURL": "https://github.com/StreamerApp/Streamer/releases/download/1.2.23/Streamer-iOS.ipa",
 				"size": 1170000,
