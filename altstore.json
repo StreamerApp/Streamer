@@ -14,15 +14,23 @@
 		"contact": {
 			"web": "https://github.com/StreamerApp"
 		},
-		"version": "1.2.23",
-		"date": "2023-08-11",
+		"version": "1.2.24",
+		"date": "2023-08-19",
 		"size": 1170000,
 		"minOSVersion": "14.0",
-		"versionDescription": "- **Streamer Player**: Enjoy high-quality content playback within the app. Choose your preferred player from the settings screen\r\n- **Autoplay**: Customize your preferred quality for all streams in the settings screen and Streamer will automatically select it for all movies and TV shows\r\n- **Top shelf support for AppleTV**: You can now see your home screen for your favorite provider without opening the app\r\n- **Force OpenSubtitles**: Enable Streamer to always request subtitles from Open Subtitles in the subtitles settings screen\r\n- **Remove item from \u201CContinue watching\" section**: Long press any item in the \u201CContinue watching\u201D section to remove it from the list\r\n- Numerous UI fixes and improvements throughout the app\r\n- Fixed Flixtor links loading issue\r\n",
+		"versionDescription": "This release focuses on resolving various bugs that affected the user experience. The following issues have been fixed: \r\n\n• Streamer Pro key deletion: The Streamer Pro key would sometimes get deleted without warning, causing the loss of premium features. This issue has been resolved and the key is now securely stored.\r\n• Downloads failure: Downloads would not work if the user signed in with a personal free dev account. This issue has been resolved and downloads are now available for all users.\r\n• Casting update: Casting would not update the \u201CContinue watching\u201D section, making it difficult to resume watching later. This issue has been resolved and the section is now updated accordingly.\r\n• Casting links: When casting a movie or a TV show, the links list would not appear, preventing the user from choosing the best quality or source. This issue has been resolved and the links list is now visible.\r\n• Subtitles persistence: Subtitles would still show even when the user disabled them in the settings screen. This issue has been resolved and subtitles are now turned off as expected.\r\n",
 		"subtitle": "App for Streaming Movies and TV shows",
 		"versions": [{
+				"version": "1.2.24",
+				"date": "2023-08-19",
+				"localizedDescription": "This release focuses on resolving various bugs that affected the user experience. The following issues have been fixed: \r\n\n• Streamer Pro key deletion: The Streamer Pro key would sometimes get deleted without warning, causing the loss of premium features. This issue has been resolved and the key is now securely stored.\r\n• Downloads failure: Downloads would not work if the user signed in with a personal free dev account. This issue has been resolved and downloads are now available for all users.\r\n• Casting update: Casting would not update the \u201CContinue watching\u201D section, making it difficult to resume watching later. This issue has been resolved and the section is now updated accordingly.\r\n• Casting links: When casting a movie or a TV show, the links list would not appear, preventing the user from choosing the best quality or source. This issue has been resolved and the links list is now visible.\r\n• Subtitles persistence: Subtitles would still show even when the user disabled them in the settings screen. This issue has been resolved and subtitles are now turned off as expected.\r\n",
+				"downloadURL": "https://github.com/StreamerApp/Streamer/releases/download/1.2.24/Streamer-iOS.ipa",
+				"size": 1170000,
+				"minOSVersion": "14.0"
+			},
+			{
 				"version": "1.2.23",
-				"date": "2023-08-11",
+				"date": "2023-08-011",
 				"localizedDescription": "- **Streamer Player**: Enjoy high-quality content playback within the app. Choose your preferred player from the settings screen\r\n- **Autoplay**: Customize your preferred quality for all streams in the settings screen and Streamer will automatically select it for all movies and TV shows\r\n- **Top shelf support for AppleTV**: You can now see your home screen for your favorite provider without opening the app\r\n- **Force OpenSubtitles**: Enable Streamer to always request subtitles from Open Subtitles in the subtitles settings screen\r\n- **Remove item from \u201CContinue watching\" section**: Long press any item in the \u201CContinue watching\u201D section to remove it from the list\r\n- Numerous UI fixes and improvements throughout the app\r\n- Fixed Flixtor links loading issue\r\n",
 				"downloadURL": "https://github.com/StreamerApp/Streamer/releases/download/1.2.23/Streamer-iOS.ipa",
 				"size": 1170000,
@@ -62,7 +70,7 @@
 			}
 		],
 		"downloadURL": "https://github.com/StreamerApp/Streamer/releases/latest/download/Streamer-iOS.ipa",
-		"localizedDescription": "App for Streaming Movies and TV shows on iOS and tvOS.\n\n- Stream all TV shows and Movies from multiple websites without any annoying ads\n- Supports Chromecast to stream to FireTV and Chromecasts\n- Supports multi-language subtitles for iOS and tvOS\n- Favorite functionality to quickly access your favorite shows and movies\n\nSupported providers:\n-🇺🇸 MovieBoxPro (Streamer Pro users only): 4k English content with multi-language subtitles\n-🇺🇸 Flixtor.video: English content with multi-language subtitles and HQ streaming\n-🇺🇸 FlixHQ.to: English content\n-🇺🇸 PutLocker.vip: English content\n-🇺🇸 123moviesfree.so: English content with English subtitles\n-🇩🇪 KinoKiste.club: German content\n-🇩🇪 FilmPalast.to: German content\n-🇸🇦 Akwam.to: Arabic content\n-🇸🇦 CimaNow.cc: Arabic content\n-🇸🇦 Arabseed.ink: Arabic content\n-🇸🇦 FaselHD.vip: Arabic content\n-🇰🇷 ViewAsian.co: Asian content\n-🇯🇵 Kaido.to: Anime content\n\n More Info:\n https://github.com/StreamerApp/Streamer",
+		"localizedDescription": "App for Streaming Movies and TV shows on iOS and tvOS.\n\n- Stream all TV shows and Movies from multiple websites without any annoying ads\n- Supports Chromecast to stream to FireTV and Chromecasts\n- Supports multi-language subtitles for iOS and tvOS\n- Favorite functionality to quickly access your favorite shows and movies\n\nSupported providers:\n-🇺🇸 MovieBoxPro (Streamer Pro users only): 4k English content with multi-language subtitles\n-🇺🇸 Flixtor.video: English content with multi-language subtitles and HQ streaming\n-🇺🇸 FlixHQ.to: English content\n-🇺🇸 PutLocker.vip: English content\n-🇺🇸 123moviesfree.so: English content with English subtitles\n-🇩🇪 KinoKiste.club: German content\n-🇩🇪 FilmPalast.to: German content\n-🇸🇦 Akwam.to: Arabic content\n-🇸🇦 CimaNow.cc: Arabic content\n-🇸🇦 Arabseed.ink: Arabic content\n-🇸🇦 FaselHD.vip: Arabic content\n-🇰🇷 ViewAsian.co: Asian content\n-🇯🇵 Kaido.to: Anime content\n-🇯🇵 GogoAnimeHD.to: Anime content\n\n More Info:\n https://github.com/StreamerApp/Streamer",
 		"iconURL": "https://avatars.githubusercontent.com/u/96971772?s=200&v=4",
 		"tintColor": "#5e5e5e",
 		"appPermissions": {
