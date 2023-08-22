@@ -1,0 +1,141 @@
+{
+	"name": "StreamerApp",
+	"identifier": "com.streamer.ios",
+	"sourceURL": "https://raw.githubusercontent.com/StreamerApp/Streamer/main/altstore.json",
+	"website": "https://github.com/StreamerApp",
+	"META": {
+		"repoName": "StreamerApp",
+		"repoIcon": "https://avatars.githubusercontent.com/u/96971772?s=200&v=4"
+	},
+	"apps": [{
+		"name": "Streamer",
+		"bundleIdentifier": "com.streamer.ios",
+		"developerName": "StreamerApp",
+		"contact": {
+			"web": "https://github.com/StreamerApp/Streamer"
+		},
+		"version": "1.2.24",
+		"date": "2023-08-19",
+		"size": 1170000,
+		"minOSVersion": "14.0",
+		"versionDescription": "This release focuses on resolving various bugs that affected the user experience. The following issues have been fixed: \r\n\n• Streamer Pro key deletion: The Streamer Pro key would sometimes get deleted without warning, causing the loss of premium features. This issue has been resolved and the key is now securely stored.\r\n• Downloads failure: Downloads would not work if the user signed in with a personal free dev account. This issue has been resolved and downloads are now available for all users.\r\n• Casting update: Casting would not update the \u201CContinue watching\u201D section, making it difficult to resume watching later. This issue has been resolved and the section is now updated accordingly.\r\n• Casting links: When casting a movie or a TV show, the links list would not appear, preventing the user from choosing the best quality or source. This issue has been resolved and the links list is now visible.\r\n• Subtitles persistence: Subtitles would still show even when the user disabled them in the settings screen. This issue has been resolved and subtitles are now turned off as expected.\r\n",
+		"subtitle": "App for Streaming Movies and TV shows",
+		"versions": [{
+				"version": "1.2.24",
+				"date": "2023-08-19",
+				"localizedDescription": "This release focuses on resolving various bugs that affected the user experience. The following issues have been fixed: \r\n\n• Streamer Pro key deletion: The Streamer Pro key would sometimes get deleted without warning, causing the loss of premium features. This issue has been resolved and the key is now securely stored.\r\n• Downloads failure: Downloads would not work if the user signed in with a personal free dev account. This issue has been resolved and downloads are now available for all users.\r\n• Casting update: Casting would not update the \u201CContinue watching\u201D section, making it difficult to resume watching later. This issue has been resolved and the section is now updated accordingly.\r\n• Casting links: When casting a movie or a TV show, the links list would not appear, preventing the user from choosing the best quality or source. This issue has been resolved and the links list is now visible.\r\n• Subtitles persistence: Subtitles would still show even when the user disabled them in the settings screen. This issue has been resolved and subtitles are now turned off as expected.\r\n",
+				"downloadURL": "https://github.com/StreamerApp/Streamer/releases/download/1.2.24/Streamer-iOS.ipa",
+				"size": 1170000,
+				"minOSVersion": "14.0"
+			},
+			{
+				"version": "1.2.23",
+				"date": "2023-08-11",
+				"localizedDescription": "- **Streamer Player**: Enjoy high-quality content playback within the app. Choose your preferred player from the settings screen\r\n- **Autoplay**: Customize your preferred quality for all streams in the settings screen and Streamer will automatically select it for all movies and TV shows\r\n- **Top shelf support for AppleTV**: You can now see your home screen for your favorite provider without opening the app\r\n- **Force OpenSubtitles**: Enable Streamer to always request subtitles from Open Subtitles in the subtitles settings screen\r\n- **Remove item from \u201CContinue watching\" section**: Long press any item in the \u201CContinue watching\u201D section to remove it from the list\r\n- Numerous UI fixes and improvements throughout the app\r\n- Fixed Flixtor links loading issue\r\n",
+				"downloadURL": "https://github.com/StreamerApp/Streamer/releases/download/1.2.23/Streamer-iOS.ipa",
+				"size": 1170000,
+				"minOSVersion": "14.0"
+			},
+			{
+				"version": "1.2.22",
+				"date": "2023-08-02",
+				"localizedDescription": "- VLC player integration: You can now enjoy compatible streams in VLC, which offers better performance for HDR and original quality content.\r\n- Various UI improvements for iOS and tvOS devices.\r\n- Fixed an issue with fetching translations from OpenSubtitles for some languages, such as Portuguese.\r\n- Fixed an issue with loading some content from Flixtor.\r\n",
+				"downloadURL": "https://github.com/StreamerApp/Streamer/releases/download/1.2.22/Streamer-iOS.ipa",
+				"size": 1170000,
+				"minOSVersion": "14.0"
+			},
+			{
+				"version": "1.2.21",
+				"date": "2023-07-30",
+				"localizedDescription": "- **Streamer Pro**: Enjoy MovieBoxPro movies and tv shows with Streamer Pro, which offers fast streaming servers and 4K video quality and disabling ads for iOS devices.\r\n- **Streamer Pro key persistence**: Your Pro key will remain valid even if you uninstall the app, as long as you sign in with the same dev account. The key will be stored on your device. so if you missed renewing the app, your key will work after renewal.\r\n- **Episode sorting**: You can now choose how to sort the episodes in the tv show view by using the new button.\r\n- **Backup links**: We have fixed the issue that prevented you from requesting backup links for some videos.\r\n- **New UI for episodes and links**: We have redesigned the UI for the episodes details and the links screen for both iOS and tvOS devices, making them more user-friendly and attractive.\r\n- **Bug fixes and improvements**: We have also resolved many bugs and made some enhancements to the app's performance and stability.\r\n More Info:\n https://github.com/StreamerApp/Streamer/releases/tag/1.2.21",
+				"downloadURL": "https://github.com/StreamerApp/Streamer/releases/download/1.2.21/Streamer-iOS.ipa",
+				"size": 1170000,
+				"minOSVersion": "14.0"
+			},
+			{
+				"version": "1.2.20",
+				"date": "2023-07-16",
+				"localizedDescription": "- Fixes Arabseed and CimaNow loading issues for some users\r\n- General bug fixes and improvements\r\n More Info:\n https://github.com/StreamerApp/Streamer/releases/tag/1.2.20",
+				"downloadURL": "https://github.com/StreamerApp/Streamer/releases/download/1.2.20/Streamer-iOS.ipa",
+				"size": 1170000,
+				"minOSVersion": "13.0"
+			},
+			{
+				"version": "1.2.19",
+				"date": "2022-1-1",
+				"localizedDescription": "- Add new Providers \uD83C\uDDFA\uD83C\uDDF8 putlocker.vip, \uD83C\uDDF8\uD83C\uDDE6faselhd.vip, \u2F9E kaido.to\r\n- Bug fixes and improvements for CimaNow, Arabseed and Akwam\r\n- Fixes a crash in the player\r\n More Info:\n https://github.com/StreamerApp/Streamer/releases/tag/1.2.19",
+				"downloadURL": "https://github.com/StreamerApp/Streamer/releases/download/1.2.19/Streamer-iOS.ipa",
+				"size": 1170000,
+				"minOSVersion": "14.0"
+			}
+		],
+		"downloadURL": "https://github.com/StreamerApp/Streamer/releases/latest/download/Streamer-iOS.ipa",
+		"localizedDescription": "App for Streaming Movies and TV shows on iOS and tvOS.\n\n- Stream all TV shows and Movies from multiple websites without any annoying ads\n- Supports Chromecast to stream to FireTV and Chromecasts\n- Supports multi-language subtitles for iOS and tvOS\n- Favorite functionality to quickly access your favorite shows and movies\n\nSupported providers:\n-🇺🇸 MovieBoxPro (Streamer Pro users only): 4k English content with multi-language subtitles\n-🇺🇸 Flixtor.video: English content with multi-language subtitles and HQ streaming\n-🇺🇸 FlixHQ.to: English content\n-🇺🇸 PutLocker.vip: English content\n-🇺🇸 123moviesfree.so: English content with English subtitles\n-🇩🇪 KinoKiste.club: German content\n-🇩🇪 FilmPalast.to: German content\n-🇸🇦 Akwam.to: Arabic content\n-🇸🇦 CimaNow.cc: Arabic content\n-🇸🇦 Arabseed.ink: Arabic content\n-🇸🇦 FaselHD.vip: Arabic content\n-🇰🇷 ViewAsian.co: Asian content\n-🇯🇵 Kaido.to: Anime content\n-🇯🇵 GogoAnimeHD.to: Anime content\n\n More Info:\n https://github.com/StreamerApp/Streamer",
+		"iconURL": "https://avatars.githubusercontent.com/u/96971772?s=200&v=4",
+		"tintColor": "#5e5e5e",
+		"appPermissions": {
+			"privacy": [{
+					"name": "Camera",
+					"usageDescription": "Some ad content may access camera to take picture."
+				},
+				{
+					"name": "PhotoLibrary",
+					"usageDescription": "Some ad content may require access to the photo library."
+				},
+				{
+					"name": "Motion",
+					"usageDescription": "Some ad content may require access to accelerometer for interactive ad experience."
+				},
+				{
+					"name": "BluetoothAlways",
+					"usageDescription": "Streamer uses the local network to discover Cast-enabled devices on your WiFi network."
+				},
+				{
+					"name": "LocalNetwork",
+					"usageDescription": "Streamer uses the local network to discover Cast-enabled devices on your WiFi    network."
+				},
+				{
+					"name": "UserTracking",
+					"usageDescription": "App would like to access IDFA for ad tracking purpose."
+				}
+			],
+			"entitlements": [{
+				"name": "keychain-access-groups"
+			}]
+		},
+		"permissions": [{
+				"type": "Camera",
+				"usageDescription": "Some ad content may access camera to take picture."
+			},
+			{
+				"type": "PhotoLibrary",
+				"usageDescription": "Some ad content may require access to the photo library."
+			},
+			{
+				"type": "Motion",
+				"usageDescription": "Some ad content may require access to accelerometer for interactive ad experience."
+			},
+			{
+				"type": "BluetoothAlways",
+				"usageDescription": "Streamer uses the local network to discover Cast-enabled devices on your WiFi network."
+			},
+			{
+				"type": "LocalNetwork",
+				"usageDescription": "Streamer uses the local network to discover Cast-enabled devices on your WiFi    network."
+			},
+			{
+				"type": "UserTracking",
+				"usageDescription": "App would like to access IDFA for ad tracking purpose."
+			}
+		],
+		"screenshotURLs": [
+			"https://user-images.githubusercontent.com/96978272/257918803-1f5cc49f-bc36-4be1-ac38-8da48aa4d715.png",
+			"https://user-images.githubusercontent.com/96978272/257918796-072f6b5c-f51b-4681-b9ed-ab1b1ec7392e.png",
+			"https://user-images.githubusercontent.com/96978272/257918785-a8097992-bf83-41ed-afbf-85910d09b769.png",
+			"https://user-images.githubusercontent.com/96978272/257920592-d1f9f2f9-c35e-428f-afab-e9bcea356a28.png",
+			"https://user-images.githubusercontent.com/96978272/257918801-0c70e4de-bbe9-485e-8516-4133f0c0a75e.png",
+			"https://user-images.githubusercontent.com/96978272/257918798-4e78c4fb-d0c6-4c3f-91bb-817d7a2805df.png"
+		],
+		"beta": false
+	}]
+}
