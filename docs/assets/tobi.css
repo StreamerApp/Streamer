@@ -1,0 +1,280 @@
+.tobi {
+  background-color: rgba(26, 42, 58, 0.94);
+  bottom: 0;
+  box-sizing: border-box;
+  contain: strict;
+  font-size: 18px;
+  left: 0;
+  line-height: 1.5555555555555556;
+  overflow: hidden;
+  position: fixed;
+  right: 0;
+  top: 0;
+  z-index: 1337;
+}
+
+.tobi[aria-hidden="true"] {
+  display: none;
+}
+
+.tobi *,
+.tobi *::before,
+.tobi *::after {
+  box-sizing: inherit;
+}
+
+.tobi-is-open {
+  overflow-y: hidden;
+}
+
+.tobi__slider {
+  bottom: 0;
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: 0;
+  will-change: transform;
+}
+
+.tobi__slider:not(.tobi__slider--is-dragging) {
+  transition-duration: 0.3s;
+  transition-property: transform;
+  transition-timing-function: cubic-bezier(0.19, 1, 0.22, 1);
+}
+
+@media screen and (prefers-reduced-motion: reduce) {
+  .tobi__slider:not(.tobi__slider--is-dragging) {
+    transition: none;
+  }
+}
+
+.tobi__slider--is-draggable [data-type] {
+  cursor: -webkit-grab;
+  cursor: grab;
+}
+
+.tobi__slider--is-dragging [data-type] {
+  cursor: -webkit-grabbing;
+  cursor: grabbing;
+}
+
+.tobi__slide {
+  align-items: center;
+  display: flex;
+  height: 100%;
+  justify-content: center;
+  width: 100%;
+}
+
+.tobi__slide:not(.tobi__slide--is-active) {
+  visibility: hidden;
+}
+
+.tobi [data-type] {
+  max-height: 85vh;
+  max-width: 85vw;
+  overflow: hidden;
+  overflow-y: auto;
+  overscroll-behavior: contain;
+}
+
+.tobi [data-type] iframe,
+.tobi [data-type] video {
+  display: block !important;
+}
+
+.tobi [data-type] > figure {
+  margin: 0;
+  position: relative;
+}
+
+.tobi [data-type] > figure > img {
+  display: block;
+  height: auto;
+  max-height: 85vh;
+  max-width: 85vw;
+  width: auto;
+}
+
+.tobi [data-type] > figure > figcaption {
+  background-color: rgba(255, 255, 255, 0.94);
+  bottom: 0;
+  color: #1a2a3a;
+  padding: 0.22222em 0.44444em;
+  position: absolute;
+  white-space: pre-wrap;
+  width: 100%;
+}
+
+.tobi [data-type="html"] video {
+  cursor: auto;
+  max-height: 85vh;
+  max-width: 85vw;
+}
+
+.tobi [data-type="iframe"] {
+  /* Fix iframe scrolling on iOS */
+  -webkit-overflow-scrolling: touch;
+  transform: translate3d(0, 0, 0);
+}
+
+.tobi [data-type="iframe"] iframe {
+  height: 85vh;
+  width: 85vw;
+}
+
+.tobi > button {
+  background-color: transparent;
+  border: 0.05556em solid transparent;
+  color: #fff;
+  cursor: pointer;
+  font: inherit;
+  line-height: 1;
+  margin: 0;
+  opacity: 0.5;
+  padding: 0.22222em;
+  position: absolute;
+  touch-action: manipulation;
+  transition-duration: 0.3s;
+  transition-property: opacity, transform;
+  transition-timing-function: cubic-bezier(0.19, 1, 0.22, 1);
+  will-change: opacity, transform;
+  z-index: 1;
+}
+
+@media screen and (prefers-reduced-motion: reduce) {
+  .tobi > button {
+    transition: none;
+    will-change: opacity;
+  }
+}
+
+.tobi > button svg {
+  pointer-events: none;
+  stroke: #fff;
+  stroke-width: 1;
+  stroke-linecap: square;
+  stroke-linejoin: miter;
+  fill: none;
+  color: #fff;
+}
+
+.tobi > button:active, .tobi > button:focus, .tobi > button:hover {
+  opacity: 1;
+  transform: scale(0.84);
+}
+
+@media screen and (prefers-reduced-motion: reduce) {
+  .tobi > button:active, .tobi > button:focus, .tobi > button:hover {
+    transform: none;
+  }
+}
+
+.tobi > button.tobi__prev, .tobi > button.tobi__next {
+  top: calc(50% - 1.94444em);
+}
+
+.tobi > button.tobi__prev svg, .tobi > button.tobi__next svg {
+  height: 3.88889em;
+  width: 3.88889em;
+}
+
+.tobi > button.tobi__prev {
+  left: 0;
+}
+
+.tobi > button.tobi__next {
+  right: 0;
+}
+
+.tobi > button.tobi__close {
+  right: 0.27778em;
+  top: 1em;
+}
+
+.tobi > button.tobi__close svg {
+  height: 3.33333em;
+  width: 3.33333em;
+}
+
+.tobi > button:disabled, .tobi > button[aria-hidden="true"] {
+  display: none;
+}
+
+.tobi__counter {
+  background-color: transparent;
+  color: #fff;
+  font-size: 1.11111em;
+  left: 1em;
+  line-height: 1;
+  position: absolute;
+  top: 2.22222em;
+  z-index: 1;
+}
+
+.tobi__counter[aria-hidden="true"] {
+  display: none;
+}
+
+.tobi-loader {
+  display: inline-block;
+  height: 5.55556em;
+  left: calc(50% - 2.77778em);
+  position: absolute;
+  top: calc(50% - 2.77778em);
+  width: 5.55556em;
+}
+
+.tobi-loader::before {
+  animation: spin 1s infinite;
+  border-radius: 100%;
+  border: 0.22222em solid #949ba3;
+  border-top-color: #fff;
+  bottom: 0;
+  content: "";
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: 0;
+  z-index: 1;
+}
+
+.tobi-zoom {
+  border: 0;
+  box-shadow: none;
+  display: inline-block;
+  position: relative;
+  text-decoration: none;
+}
+
+.tobi-zoom img {
+  display: block;
+}
+
+.tobi-zoom__icon {
+  background-color: rgba(26, 42, 58, 0.94);
+  bottom: 0;
+  color: #fff;
+  line-height: 1;
+  position: absolute;
+  right: 0;
+}
+
+.tobi-zoom__icon svg {
+  color: #fff;
+  fill: none;
+  height: 1.11111em;
+  padding: 0.22222em;
+  pointer-events: none;
+  stroke-linecap: square;
+  stroke-linejoin: miter;
+  stroke-width: 2;
+  stroke: #fff;
+  width: 1.11111em;
+}
+
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
