@@ -14,13 +14,21 @@
 		"contact": {
 			"web": "https://github.com/StreamerApp/Streamer"
 		},
-		"version": "1.2.24",
-		"date": "2023-08-19",
+		"version": "1.2.25",
+		"date": "2023-10-20",
 		"size": 1170000,
 		"minOSVersion": "14.0",
-		"versionDescription": "This release focuses on resolving various bugs that affected the user experience. The following issues have been fixed: \r\n\n• Streamer Pro key deletion: The Streamer Pro key would sometimes get deleted without warning, causing the loss of premium features. This issue has been resolved and the key is now securely stored.\r\n• Downloads failure: Downloads would not work if the user signed in with a personal free dev account. This issue has been resolved and downloads are now available for all users.\r\n• Casting update: Casting would not update the \u201CContinue watching\u201D section, making it difficult to resume watching later. This issue has been resolved and the section is now updated accordingly.\r\n• Casting links: When casting a movie or a TV show, the links list would not appear, preventing the user from choosing the best quality or source. This issue has been resolved and the links list is now visible.\r\n• Subtitles persistence: Subtitles would still show even when the user disabled them in the settings screen. This issue has been resolved and subtitles are now turned off as expected.\r\n",
+		"versionDescription": "Remove premium tier: Due to issues with our payment flow, we decided to give all MovieBoxPro features for FREE!!\r\n• Fix Flixtor provider.\r\n\nwe will release the source code for the backend so if you want to help fix bugs or add new providers 🎉\nhttps://github.com/StreamerApp/Streamer-backend\r\n",
 		"subtitle": "App for Streaming Movies and TV shows",
 		"versions": [{
+				"version": "1.2.25",
+				"date": "2023-10-20",
+				"localizedDescription": "Remove premium tier: Due to issues with our payment flow, we decided to give all MovieBoxPro features for FREE!!\r\n• Fix Flixtor provider.\r\n\nwe will release the source code for the backend so if you want to help fix bugs or add new providers 🎉\nhttps://github.com/StreamerApp/Streamer-backend\r\n",
+				"downloadURL": "https://github.com/StreamerApp/Streamer/releases/download/1.2.25/Streamer-iOS.ipa",
+				"size": 1170000,
+				"minOSVersion": "14.0"
+			},
+			{
 				"version": "1.2.24",
 				"date": "2023-08-19",
 				"localizedDescription": "This release focuses on resolving various bugs that affected the user experience. The following issues have been fixed: \r\n\n• Streamer Pro key deletion: The Streamer Pro key would sometimes get deleted without warning, causing the loss of premium features. This issue has been resolved and the key is now securely stored.\r\n• Downloads failure: Downloads would not work if the user signed in with a personal free dev account. This issue has been resolved and downloads are now available for all users.\r\n• Casting update: Casting would not update the \u201CContinue watching\u201D section, making it difficult to resume watching later. This issue has been resolved and the section is now updated accordingly.\r\n• Casting links: When casting a movie or a TV show, the links list would not appear, preventing the user from choosing the best quality or source. This issue has been resolved and the links list is now visible.\r\n• Subtitles persistence: Subtitles would still show even when the user disabled them in the settings screen. This issue has been resolved and subtitles are now turned off as expected.\r\n",
