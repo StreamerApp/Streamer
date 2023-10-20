@@ -2,15 +2,27 @@
    <img src="https://github.com/StreamerApp/Streamer/assets/96978272/130f55c1-a906-4ec2-bbac-9276793473ff">
 </p>
 
-Streamer is an app to track your favourite TV shows and movies o iOS and tvOS.
+Streamer iOS
+App for Streaming Movies and TV shows on iOS and tvOS
 
-Do you love watching TV shows and movies, but hate switching between different apps and services to find what you want? Do you want to keep track of your watch history, progress, and ratings across all your devices? Do you want to get notified when new episodes or seasons of your favourite shows are available, or when movies you want to see are released?
-If you answered yes to any of these questions, then Streamer is the app for you. Streamer is an app that lets you browse, discover, and watch thousands of shows and movies from various streaming services in one place. You can also sync your data with Trakt.tv, IMDb, or TMDb, and share your opinions with other users.
-Streamer is available for iOS and tvOS devices, so you can enjoy your content on the go or on the big screen. Streamer also integrates with Siri, Spotlight, and the TV app, so you can easily access your content with voice commands or search.
-Download Streamer today and start streaming your favourite TV shows and movies like never before. Streamer is the ultimate app for TV and movie lovers.</p>
-<p align="center">
-   <br><a href="https://www.buymeacoffee.com/streamerapp" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 45px !important;width: 191px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
-</p>
+- Stream all TV shows and Movies from multiple websites
+- Supports Chromecast to stream to FireTV and Chromecasts
+- Supports multi-language subtitles for iOS and tvOS
+- Favorite functionality to quickly access your favorite shows and movies
+
+Supported providers
+
+- 🇺🇸 MovieBoxPro: 4k English content with multi-language subtitles
+- 🇺🇸 Flixtor.video: English content with multi-language subtitles and HQ streaming
+- 🇺🇸 FlixHQ.to: English content
+- 🇺🇸 PutLocker.vip: English content
+- 🇩🇪 KinoKiste.club: German content
+- 🇩🇪 FilmPalast.to: German content
+- 🇸🇦 Akwam.to: Arabic content
+- 🇸🇦 Arabseed.ink: Arabic content
+- 🇸🇦 FaselHD.vip: Arabic content
+- 🇰🇷 ViewAsian.co: Asian content
+- ⾞  Kaido.to: Anime content
 
 ## Installation 
 - iOS (Works on iOS 14+)
