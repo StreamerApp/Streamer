@@ -16,6 +16,7 @@ Supported providers
 - 🇺🇸 Flixtor.video: English content with multi-language subtitles and HQ streaming
 - 🇺🇸 FlixHQ.to: English content
 - 🇺🇸 PutLocker.vip: English content
+- 🇫🇷 Empire-stream.net: French content
 - 🇩🇪 KinoKiste.club: German content
 - 🇩🇪 FilmPalast.to: German content
 - 🇸🇦 Akwam.to: Arabic content
