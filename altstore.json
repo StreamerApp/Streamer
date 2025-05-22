@@ -1,60 +1,63 @@
 {
-  "name": "StreamerApp Source",
-  "identifier": "com.streamer",
-  "apps": [
-    {
-      "name": "Streamer iOS",
-      "bundleIdentifier": "com.streamer.ios",
-      "developerName": "TheOnlyMo",
-      "localizedDescription": "**Ultimate Streaming Experience for iOS, tvOS and macOS**\r\n\r\n- **Ad-Free Streaming**: Enjoy uninterrupted streaming of your favorite TV shows and movies from a variety of websites.\r\n- **Chromecast Support**: Easily cast content to your FireTV or Chromecast devices for a seamless viewing experience.\r\n- **Multi-Language Subtitles**: Accessible international viewing with subtitles available in multiple languages.\r\n- **Favorites**: Quickly navigate to your beloved shows and films with our convenient favorites feature.\r\n- **Trakt Integration**: Keep an eye on your viewing habits and never lose track of your watched content with Trakt.\r\n- **Debrid Compatibility**: Enhanced streaming with support for Real-Debrid, AllDebrid, Premiumize, Offcloud, DebridLink, and EasyNews.\r\n- **Player Integrations**: Choose your preferred playback experience with compatibility for VLC, Infuse, and iina players.\r\n- **Stremio Addons**: Expand your library and discover more content with Stremio addon integration.\r\n\r\n More Info:\r\n https://github.com/StreamerApp/Streamer",
-      "iconURL": "https://avatars.githubusercontent.com/u/96971772?s=200&v=4",
-      "versions": [
-        {
-          "version": "1.3.0",
-          "date": "2025-05-22T17:08:00Z",
-          "localizedDescription": "\uD83D\uDD0D Search modules Integration\r\nGlobal search now includes results from Search modules. \r\n\r\n\uD83D\uDCFA Stremio Add-ons Support\r\nNow supports Stremio Subtitles and Live TV add-ons for a richer streaming experience.\r\n\r\n\uD83C\uDFA5 MPV Player with Dolby Vision Support\r\nNew MPV video engine enables high-quality playback, including full Dolby Vision support.\r\n\r\n\uD83C\uDF0D Universal Resolver Upgrade (Torrentio & Comet)\r\nImproved source resolving with smarter Comet integration and enhanced Torrentio settings.\r\n\r\n\uD83E\uDDD1\u200D\uD83C\uDFA8 Redesigned Stremio UI\r\nUpdated interface with new media icons, improved layout, and smoother navigation.\r\n\r\n\uD83D\uDCF1 iOS 15 Compatibility\r\nThe app now runs smoothly on older iOS 15 devices.\r\n\r\n\uD83D\uDCC2 External Subtitles Add-on Support\r\nEasily connect external subtitle sources for greater flexibility.\r\n\r\n\uD83D\uDD04 Trakt Integration Fixes\r\nMore reliable syncing of favorites and watch history, with improved handling of default keys and icons.\r\n\r\n",
-          "minOSVersion": "15.0",
-          "downloadURL": "https://github.com/StreamerApp/Streamer/releases/download/1.3.0/Streamer-iOS.ipa",
-          "size": 37386041
-        }
-      ],
-      "subtitle": "Streamer App for Streaming Movies and TV shows on iOS, tvOS and Mac",
-      "tintColor": "5e5e5e",
-      "screenshotURLs": [
-        "https://user-images.githubusercontent.com/96978272/257918803-1f5cc49f-bc36-4be1-ac38-8da48aa4d715.png",
-        "https://user-images.githubusercontent.com/96978272/257918796-072f6b5c-f51b-4681-b9ed-ab1b1ec7392e.png",
-        "https://user-images.githubusercontent.com/96978272/257918785-a8097992-bf83-41ed-afbf-85910d09b769.png",
-        "https://user-images.githubusercontent.com/96978272/257920592-d1f9f2f9-c35e-428f-afab-e9bcea356a28.png",
-        "https://user-images.githubusercontent.com/96978272/257918801-0c70e4de-bbe9-485e-8516-4133f0c0a75e.png",
-        "https://user-images.githubusercontent.com/96978272/257918798-4e78c4fb-d0c6-4c3f-91bb-817d7a2805df.png"
-      ]
-    },
-    {
-      "name": "Streamer tvOS",
-      "bundleIdentifier": "com.streamer.tvOS",
-      "developerName": "TheOnlyMo",
-"localizedDescription": "**Ultimate Streaming Experience for iOS, tvOS and macOS**\r\n\r\n- **Ad-Free Streaming**: Enjoy uninterrupted streaming of your favorite TV shows and movies from a variety of websites.\r\n- **Chromecast Support**: Easily cast content to your FireTV or Chromecast devices for a seamless viewing experience.\r\n- **Multi-Language Subtitles**: Accessible international viewing with subtitles available in multiple languages.\r\n- **Favorites**: Quickly navigate to your beloved shows and films with our convenient favorites feature.\r\n- **Trakt Integration**: Keep an eye on your viewing habits and never lose track of your watched content with Trakt.\r\n- **Debrid Compatibility**: Enhanced streaming with support for Real-Debrid, AllDebrid, Premiumize, Offcloud, DebridLink, and EasyNews.\r\n- **Player Integrations**: Choose your preferred playback experience with compatibility for VLC, Infuse, and iina players.\r\n- **Stremio Addons**: Expand your library and discover more content with Stremio addon integration.\r\n\r\n More Info:\r\n https://github.com/StreamerApp/Streamer",      "iconURL": "https://avatars.githubusercontent.com/u/96971772?s=200&v=4",
-      "versions": [
-        {
-          "version": "1.3.0",
-          "date": "2025-05-22T17:08:00Z",
-          "localizedDescription": "\uD83D\uDD0D Search modules Integration\r\nGlobal search now includes results from Search modules. \r\n\r\n\uD83D\uDCFA Stremio Add-ons Support\r\nNow supports Stremio Subtitles and Live TV add-ons for a richer streaming experience.\r\n\r\n\uD83C\uDFA5 MPV Player with Dolby Vision Support\r\nNew MPV video engine enables high-quality playback, including full Dolby Vision support.\r\n\r\n\uD83C\uDF0D Universal Resolver Upgrade (Torrentio & Comet)\r\nImproved source resolving with smarter Comet integration and enhanced Torrentio settings.\r\n\r\n\uD83E\uDDD1\u200D\uD83C\uDFA8 Redesigned Stremio UI\r\nUpdated interface with new media icons, improved layout, and smoother navigation.\r\n\r\n\uD83D\uDCF1 iOS 15 Compatibility\r\nThe app now runs smoothly on older iOS 15 devices.\r\n\r\n\uD83D\uDCC2 External Subtitles Add-on Support\r\nEasily connect external subtitle sources for greater flexibility.\r\n\r\n\uD83D\uDD04 Trakt Integration Fixes\r\nMore reliable syncing of favorites and watch history, with improved handling of default keys and icons.\r\n\r\n",
-          "minOSVersion": "15.0",
-          "downloadURL": "https://github.com/StreamerApp/Streamer/releases/download/1.3.0/Streamer-tvOS.ipa",
-          "size": 30854221
-        }
-      ],
-      "subtitle": "Streamer App for Streaming Movies and TV shows on iOS, tvOS and Mac",
-      "tintColor": "5e5e5e",
-      "screenshotURLs": [
-        "https://user-images.githubusercontent.com/96978272/257918803-1f5cc49f-bc36-4be1-ac38-8da48aa4d715.png",
-        "https://user-images.githubusercontent.com/96978272/257918796-072f6b5c-f51b-4681-b9ed-ab1b1ec7392e.png",
-        "https://user-images.githubusercontent.com/96978272/257918785-a8097992-bf83-41ed-afbf-85910d09b769.png",
-        "https://user-images.githubusercontent.com/96978272/257920592-d1f9f2f9-c35e-428f-afab-e9bcea356a28.png",
-        "https://user-images.githubusercontent.com/96978272/257918801-0c70e4de-bbe9-485e-8516-4133f0c0a75e.png",
-        "https://user-images.githubusercontent.com/96978272/257918798-4e78c4fb-d0c6-4c3f-91bb-817d7a2805df.png"
-      ]
-    }
-  ],
-  "news": []
+   "name":"StreamerApp Source",
+   "identifier":"com.streamerapp",
+   "apps":[
+      {
+         "name":"Streamer iOS",
+         "bundleIdentifier":"com.streamerapp.ios",
+         "developerName":"StreamerApp",
+         "localizedDescription":"**Ultimate Streaming Experience for iOS, tvOS and macOS**\r\n\r\n- **Ad-Free Streaming**: Enjoy uninterrupted streaming of your favorite TV shows and movies from a variety of websites.\r\n- **Chromecast Support**: Easily cast content to your FireTV or Chromecast devices for a seamless viewing experience.\r\n- **Multi-Language Subtitles**: Accessible international viewing with subtitles available in multiple languages.\r\n- **Favorites**: Quickly navigate to your beloved shows and films with our convenient favorites feature.\r\n- **Trakt Integration**: Keep an eye on your viewing habits and never lose track of your watched content with Trakt.\r\n- **Debrid Compatibility**: Enhanced streaming with support for Real-Debrid, AllDebrid, Premiumize, Offcloud, DebridLink, and EasyNews.\r\n- **Player Integrations**: Choose your preferred playback experience with compatibility for VLC, Infuse, and iina players.\r\n- **Stremio Addons**: Expand your library and discover more content with Stremio addon integration.\r\n\r\n More Info:\r\n https://github.com/StreamerApp/Streamer",
+         "iconURL":"https://avatars.githubusercontent.com/u/96971772?s=200&v=4",
+         "versions":[
+            {
+               "version":"1.3.0",
+               "date":"2025-05-22T17:08:00Z",
+               "localizedDescription":"\uD83D\uDD0D Search modules Integration\r\nGlobal search now includes results from Search modules. \r\n\r\n\uD83D\uDCFA Stremio Add-ons Support\r\nNow supports Stremio Subtitles and Live TV add-ons for a richer streaming experience.\r\n\r\n\uD83C\uDFA5 MPV Player with Dolby Vision Support\r\nNew MPV video engine enables high-quality playback, including full Dolby Vision support.\r\n\r\n\uD83C\uDF0D Universal Resolver Upgrade (Torrentio & Comet)\r\nImproved source resolving with smarter Comet integration and enhanced Torrentio settings.\r\n\r\n\uD83E\uDDD1\u200D\uD83C\uDFA8 Redesigned Stremio UI\r\nUpdated interface with new media icons, improved layout, and smoother navigation.\r\n\r\n\uD83D\uDCF1 iOS 15 Compatibility\r\nThe app now runs smoothly on older iOS 15 devices.\r\n\r\n\uD83D\uDCC2 External Subtitles Add-on Support\r\nEasily connect external subtitle sources for greater flexibility.\r\n\r\n\uD83D\uDD04 Trakt Integration Fixes\r\nMore reliable syncing of favorites and watch history, with improved handling of default keys and icons.\r\n\r\n",
+               "minOSVersion":"15.0",
+               "downloadURL":"https://github.com/StreamerApp/Streamer/releases/download/1.3.0/Streamer-iOS.ipa",
+               "size":37386041
+            }
+         ],
+         "subtitle":"Streamer App for Streaming Movies and TV shows on iOS, tvOS and Mac",
+         "tintColor":"5e5e5e",
+         "screenshotURLs":[
+            "https://user-images.githubusercontent.com/96978272/257918803-1f5cc49f-bc36-4be1-ac38-8da48aa4d715.png",
+            "https://user-images.githubusercontent.com/96978272/257918796-072f6b5c-f51b-4681-b9ed-ab1b1ec7392e.png",
+            "https://user-images.githubusercontent.com/96978272/257918785-a8097992-bf83-41ed-afbf-85910d09b769.png",
+            "https://user-images.githubusercontent.com/96978272/257920592-d1f9f2f9-c35e-428f-afab-e9bcea356a28.png",
+            "https://user-images.githubusercontent.com/96978272/257918801-0c70e4de-bbe9-485e-8516-4133f0c0a75e.png",
+            "https://user-images.githubusercontent.com/96978272/257918798-4e78c4fb-d0c6-4c3f-91bb-817d7a2805df.png"
+         ]
+      },
+      {
+         "name":"Streamer tvOS",
+         "bundleIdentifier":"com.streamerapp.ios",
+         "developerName":"StreamerApp",
+         "localizedDescription":"**Ultimate Streaming Experience for iOS, tvOS and macOS**\r\n\r\n- **Ad-Free Streaming**: Enjoy uninterrupted streaming of your favorite TV shows and movies from a variety of websites.\r\n- **Chromecast Support**: Easily cast content to your FireTV or Chromecast devices for a seamless viewing experience.\r\n- **Multi-Language Subtitles**: Accessible international viewing with subtitles available in multiple languages.\r\n- **Favorites**: Quickly navigate to your beloved shows and films with our convenient favorites feature.\r\n- **Trakt Integration**: Keep an eye on your viewing habits and never lose track of your watched content with Trakt.\r\n- **Debrid Compatibility**: Enhanced streaming with support for Real-Debrid, AllDebrid, Premiumize, Offcloud, DebridLink, and EasyNews.\r\n- **Player Integrations**: Choose your preferred playback experience with compatibility for VLC, Infuse, and iina players.\r\n- **Stremio Addons**: Expand your library and discover more content with Stremio addon integration.\r\n\r\n More Info:\r\n https://github.com/StreamerApp/Streamer",
+         "iconURL":"https://avatars.githubusercontent.com/u/96971772?s=200&v=4",
+         "versions":[
+            {
+               "version":"1.3.0",
+               "date":"2025-05-22T17:08:00Z",
+               "localizedDescription":"\uD83D\uDD0D Search modules Integration\r\nGlobal search now includes results from Search modules. \r\n\r\n\uD83D\uDCFA Stremio Add-ons Support\r\nNow supports Stremio Subtitles and Live TV add-ons for a richer streaming experience.\r\n\r\n\uD83C\uDFA5 MPV Player with Dolby Vision Support\r\nNew MPV video engine enables high-quality playback, including full Dolby Vision support.\r\n\r\n\uD83C\uDF0D Universal Resolver Upgrade (Torrentio & Comet)\r\nImproved source resolving with smarter Comet integration and enhanced Torrentio settings.\r\n\r\n\uD83E\uDDD1\u200D\uD83C\uDFA8 Redesigned Stremio UI\r\nUpdated interface with new media icons, improved layout, and smoother navigation.\r\n\r\n\uD83D\uDCF1 iOS 15 Compatibility\r\nThe app now runs smoothly on older iOS 15 devices.\r\n\r\n\uD83D\uDCC2 External Subtitles Add-on Support\r\nEasily connect external subtitle sources for greater flexibility.\r\n\r\n\uD83D\uDD04 Trakt Integration Fixes\r\nMore reliable syncing of favorites and watch history, with improved handling of default keys and icons.\r\n\r\n",
+               "minOSVersion":"15.0",
+               "downloadURL":"https://github.com/StreamerApp/Streamer/releases/download/1.3.0/Streamer-tvOS.ipa",
+               "size":30854221
+            }
+         ],
+         "subtitle":"Streamer App for Streaming Movies and TV shows on iOS, tvOS and Mac",
+         "tintColor":"5e5e5e",
+         "screenshotURLs":[
+            "https://user-images.githubusercontent.com/96978272/257918803-1f5cc49f-bc36-4be1-ac38-8da48aa4d715.png",
+            "https://user-images.githubusercontent.com/96978272/257918796-072f6b5c-f51b-4681-b9ed-ab1b1ec7392e.png",
+            "https://user-images.githubusercontent.com/96978272/257918785-a8097992-bf83-41ed-afbf-85910d09b769.png",
+            "https://user-images.githubusercontent.com/96978272/257920592-d1f9f2f9-c35e-428f-afab-e9bcea356a28.png",
+            "https://user-images.githubusercontent.com/96978272/257918801-0c70e4de-bbe9-485e-8516-4133f0c0a75e.png",
+            "https://user-images.githubusercontent.com/96978272/257918798-4e78c4fb-d0c6-4c3f-91bb-817d7a2805df.png"
+         ]
+      }
+   ],
+   "news":[
+      
+   ]
 }
