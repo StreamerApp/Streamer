@@ -10,23 +10,8 @@ App for Streaming Movies and TV shows on iOS and tvOS
 - Supports multi-language subtitles for iOS and tvOS
 - Favorite functionality to quickly access your favorite shows and movies
 
-Supported providers
-
-- 🇺🇸 MovieBoxPro: 4k English content with multi-language subtitles
-- 🇺🇸 Flixtor.video: English content with multi-language subtitles and HQ streaming
-- 🇺🇸 FlixHQ.to: English content
-- 🇺🇸 PutLocker.vip: English content
-- 🇫🇷 Empire-stream.net: French content
-- 🇩🇪 KinoKiste.club: German content
-- 🇩🇪 FilmPalast.to: German content
-- 🇸🇦 Akwam.to: Arabic content
-- 🇸🇦 Arabseed.ink: Arabic content
-- 🇸🇦 FaselHD.vip: Arabic content
-- 🇰🇷 ViewAsian.co: Asian content
-- ⾞  Kaido.to: Anime content
-
 ## Installation 
-- iOS (Works on iOS 14+)
+- iOS (Works on iOS 15+)
   - [Download iPA](https://github.com/StreamerApp/Streamer/releases/latest/download/Streamer-iOS.ipa)
   - [Install via AltStore](https://spx.vercel.app/1/altstore%3A%2F%2Finstall%3Furl%3Dhttps%3A%2F%2Fgithub.com%2FStreamerApp%2FStreamer%2Freleases%2Flatest%2Fdownload%2FStreamer-iOS.ipa) 
   - [AltStore Source](https://raw.githubusercontent.com/StreamerApp/Streamer/main/altstore.json) | [View Online](https://therealfoxster.github.io/altsource-viewer/app.html?source=https://raw.githubusercontent.com/StreamerApp/Streamer/main/altstore.json&id=com.streamer.ios)
@@ -40,7 +25,7 @@ Supported providers
 [![scarlet](https://user-images.githubusercontent.com/96978272/174394044-195d2d59-034d-4b4a-b6dc-145a0f454889.png)](https://spx.vercel.app/1/scarlet%3A%2F%2Finstall%3Dhttps%253A%2F%2Fgithub.com%2FStreamerApp%2FStreamer%2Freleases%2Flatest%2Fdownload%2FStreamer-iOS.ipa) 
 
 
-- tvOS (Works on iOS 14+)
+- tvOS (Works on iOS 15+)
   - [Download iPA](https://github.com/StreamerApp/Streamer/releases/latest/download/Streamer-tvOS.ipa)
   - Use [iOS App signer](https://www.iosappsigner.com/)
   - [Install via Sideloady](https://spx.vercel.app/1/sideloadly%3Ahttps%3A%2F%2Fgithub.com%2FStreamerApp%2FStreamer%2Freleases%2Flatest%2Fdownload%2FStreamer-tvOS.ipa)
